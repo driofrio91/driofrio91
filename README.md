@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Danny
+# Hi! 👋 I'm Danny
 
 ---
 
@@ -28,8 +28,8 @@ My work here has a few clear purposes:
 
 I'm always glad to connect with other developers, work on interesting projects together, or just talk about technology. Feel free to contact me!
 
-* **LinkedIn:** [https://www.linkedin.com/in/danny-riofrio-jimenez] 🌐
-* **Email:** [dannyriofriojimenez@gmail.com] 📧
+* [LinkedIn](https://www.linkedin.com/in/danny-riofrio-jimenez)
+* [Email](dannyriofriojimenez@gmail.com)
 
 ---
 
